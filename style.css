@@ -48,17 +48,22 @@ footer{
 }
 article{
     background-color:#777 ;
-    
+    padding-top: 20px;
     height: 200px;
 }
 h2{
     background-color: whitesmoke;
     margin: 5%;
-    height: 50px;
+    height: 30px;
+    padding: 10px;
    
 }
 p{
     background-color: whitesmoke;
     margin: 5%;
-    height: 50px;
+    height: 30px;
+    padding: 10px;
+}
+#id1{
+    color:#ebebeb;
 }
