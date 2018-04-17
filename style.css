@@ -2,30 +2,43 @@ body{
     height: 100%;
     background-color: black;
     padding: 3%;
+    text-align: center;
 }
 header{
     background-color: aquamarine;
     height : 100px;
+    margin: 0 1.5% 24px 1.5%;
 }
 #container{
     background-color: darkgray;
-    width: 100%;
-    height: 700px;
+    width: 1200px;
+    height: 625px;
    padding: 5%;
 }
 nav{
     background-color: chocolate;
     height: 100px;
+    margin: 0 1.5% 24px 1.5%;
 }
 section{
     height: 300px;
-    width: 400px;
+    width: 650px;
     background-color: blanchedalmond;
     float: left;
+    margin: 0 1.5% 24px 1.5%;
+   
 }
 aside{
     height: 300px;
-    width: 300px; 
+    width: 475px; 
     background-color: indianred;
     float: right;
+    margin: 0 1.5% 24px 1.5%;
+}
+footer{
+    background-color: thistle;
+    height : 50px;
+    clear: both;
+    margin-bottom: 0;
+    margin: 0 1.5% 24px 1.5%;
 }
